@@ -1,4 +1,4 @@
-# Ubuntu SBC Setup Script
+# Ubuntu ULTIMATE Setup Script
 
 A comprehensive, automated setup script for Ubuntu-based Single Board Computers (SBCs) like Raspberry Pi, Orange Pi, and other headless systems.
 
