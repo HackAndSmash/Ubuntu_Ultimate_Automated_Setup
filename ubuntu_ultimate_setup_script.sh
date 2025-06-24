@@ -40,6 +40,7 @@ PACKAGES=(
     "iotop"
     "lsof"
     "ufw"
+	"tshark"
 )
 
 # Install packages
